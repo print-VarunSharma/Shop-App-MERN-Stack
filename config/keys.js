@@ -1,0 +1,1 @@
+export const mongoURI = "mongodb+srv://varun007:wilhelm15@cluster0.oqd6e.mongodb.net/mern_shop_app?retryWrites=true&w=majority";
